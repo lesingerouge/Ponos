@@ -1,4 +1,4 @@
 # Ponos
 small MongoDB ORM
 
-<work in progress>
+work in progress!
